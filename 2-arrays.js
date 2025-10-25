@@ -9,6 +9,13 @@ names.splice(2, 0, "julia"); // O(n)
 names.pop(); // O(1)
 names.shift(); // O(n)
 
+/**
+ * Access: O(1)
+ * Search: O(N)
+ * Insertion: O(N)
+ * Deletion: O(N)
+ */
+
 /** Static Arrays
  * Size: Fixed at compile time
  * Memory allocation: Allocated at compile time, often on the stack
