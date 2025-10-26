@@ -1,8 +1,5 @@
 /** 
 
-https://www.bigocheatsheet.com/
-https://visualgo.net/en
-
 Big O types
 
 - O(1) Constants - No loops
